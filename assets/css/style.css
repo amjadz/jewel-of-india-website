@@ -1,11 +1,22 @@
-.background-image {
-  background-image: url("/assets/images/food1.png");
+#background-image-home {
+  background-image: url("/assets/images/food/IMG_2575.JPG");
   height: 100vh;
   max-width: 100%;
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+#background-image-catering-delivery {
+  background-image: url("/assets/images/food/IMG_1928.JPG");
+  height: 100vh;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+ 
 
 .resturant-img {
   height: auto;
@@ -22,4 +33,31 @@
 .text-color {
   color: white;
 
+}
+
+.box {
+  width: 100%;
+  height: 70vh;
+  background-color: black;
+  color: white;
+}
+
+section.color {
+  background-color: #FF6B6B;
+  height: 50vh;
+}
+
+.map-responsive{
+  overflow:hidden;
+  padding-bottom:56.25%;
+  position:relative;
+  height:0;
+}
+
+.map-responsive iframe{
+  left:0;
+  top:0;
+  height:100%;
+  width:100%;
+  position:absolute;
 }
