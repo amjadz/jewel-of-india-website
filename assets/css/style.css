@@ -5,6 +5,8 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #666666;
 }
 
 #background-image-catering-delivery {
@@ -14,8 +16,20 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #666666;
 }
 
+#background-image-menu {
+  background-image: url("/assets/images/food/IMG_2575.JPG");
+  height: 100vh;
+  max-width: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-blend-mode: multiply;
+  background-color: #666666;
+}
  
 
 .resturant-img {
@@ -60,4 +74,17 @@ section.color {
   height:100%;
   width:100%;
   position:absolute;
+}
+
+.font-size-text {
+  font-size: 20px;
+}
+
+.font-size-text1 {
+  font-size: 30px;
+}
+
+.font-size-text2 {
+  font-size: 50px;
+
 }
