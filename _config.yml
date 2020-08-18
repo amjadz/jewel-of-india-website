@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   We have been serving authenitc indain food within the U-District since 2000. We offer a
   wide varity of curries, appitizers and much more. We also server south indian cusine and we 
   offer halal meat.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "jewel-of-india-website/" # the subpath of your site, e.g. /blog
+url: "https://amjadz.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 
