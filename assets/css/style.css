@@ -1,3 +1,25 @@
+h1 {
+  font-family: 'Dancing Script', cursive;
+
+}
+.font-change {
+  font-family: 'Dancing Script', cursive;
+}
+
+p {
+  font-family: 'Kalam', cursive;
+}
+
+h2 {
+  font-family: 'Dancing Script', cursive;
+
+}
+
+.cardo-font {
+  font-family: 'Cardo', serif;
+
+}
+
 #background-image-home {
   background-image: url("/jewel-of-india-website/assets/images/food/IMG_2575.JPG");
   height: 100vh;
