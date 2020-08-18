@@ -1,8 +1,5 @@
----
----
-
 #background-image-home {
-  background-image: url("{{site.baseurl}}/assets/images/food/IMG_2575.JPG");
+  background-image: url("/assets/images/food/IMG_2575.JPG");
   height: 100vh;
   max-width: 100%;
   background-position: center;
@@ -13,7 +10,7 @@
 }
 
 #background-image-catering-delivery {
-  background-image: url("{{site.baseurl}}/assets/images/food/IMG_1928.JPG");
+  background-image: url("/assets/images/food/IMG_1928.JPG");
   height: 100vh;
   max-width: 100%;
   background-position: center;
@@ -24,7 +21,7 @@
 }
 
 #background-image-menu {
-  background-image: url("{{site.baseurl}}/assets/images/food/IMG_2574.JPG");
+  background-image: url("/assets/images/food/IMG_2574.JPG");
   height: 100vh;
   max-width: 100%;
   background-position: center;
@@ -35,7 +32,7 @@
 }
  
 #background-image-about {
-  background-image: url("{{site.baseurl}}/assets/images/food/IMG_2573.JPG");
+  background-image: url("/assets/images/food/IMG_2573.JPG");
   height: 100vh;
   max-width: 100%;
   background-position: center;
