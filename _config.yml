@@ -36,8 +36,6 @@ plugins:
   - jekyll-sitemap
 
 default:
-  -scope:
-    path: ""
     values:
       image:
         path: /assets/images/logo-black.png
