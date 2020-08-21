@@ -35,10 +35,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-default:
-    values:
-      image:
-        path: /assets/images/logo-black.png
+image:
+  path: /assets/images/logo/logo-black.png
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
