@@ -35,11 +35,12 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-
-image:
-  path: /assets/images/logo-black.png
-  height: 100
-  width: 100
+default:
+  -scope:
+    path: ""
+    values:
+      image:
+        path: /assets/images/logo-black.png
 
 # Exclude from processing.
 # The following items will not be processed, by default.
