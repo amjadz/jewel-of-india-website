@@ -18,12 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Jewel of India Seattle
-email: your-email@example.com
+title: Jewel of India Seattle | U-District
 description: >- # this means to ignore newlines until "baseurl:"
-  We have been serving authenitc indain food within the U-District since 2000. We offer a
-  wide varity of curries, appitizers and much more. We also server south indian cusine and we 
-  offer halal meat.
+  We have been serving authentic Indian food within the U-District since 2000. We offer a wide variety of curries, appetizers and much more as well as halal meat.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://seattlejewelofindia.com" # the base hostname & protocol for your site, e.g. http://example.com
 
